@@ -7,7 +7,7 @@ When you add a URL to an email message on Whatsapp or Instagram app, or when you
 ## Project Screen Shot(s)
 
 #### Example:   
-![Link previewer mockup](https://github.com/HariPasapuleti/LinkPreviewer/Mockup.png)
+![Link previewer mockup](https://github.com/HariPasapuleti/Link-Previewer/Mockup.png)
 
 ## Installation and Setup Instructions
 
